@@ -11,8 +11,8 @@ import {
 
 const Footer = () => {
     return (
-      <MainWrapper className='flex justify-between items-end bg-black text-white pt-14 pb-3  bottom-0 left-0 right-0'>
-        <div className='text-[10px] text-white font-semibold hover:text-white cursor-pointer text-center md:text-left'>
+      <MainWrapper className='flex justify-between items-end bg-black text-white pt-14 pb-3 fixed bottom-0 left-0 right-0'>
+        <div className='text-[12px] text-white font-semibold hover:text-white cursor-pointer text-center md:text-left'>
           © 2023 Brand, Inc. All Rights Reserved
         </div>
 
